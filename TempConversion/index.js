@@ -8,11 +8,11 @@ function convert(event){
   event.preventDefault();
   if(toFahrenheit.checked){
   temp = tempByUser * 9/5 + 32;
-  result.textContent = `Temperature: ${temp} °F`;
+  result.textContent = `Temperature: ${temp.toFixed(1)} °F`;
   }
   else if(toCelsius.checked){
   temp = (tempByUser - 32) * 5 / 9;
-  result.textContent = `Temperature: ${temp} °C`;
+  result.textContent = `Temperature: ${temp.toFixed(1)} °C`;
   }
   else{
     result.textContent = "Select an unit to convert your Temperature!";
