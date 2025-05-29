@@ -1,0 +1,50 @@
+body {
+  font-family: Veradana, sans-serif;
+  background-color: rgba(241, 243, 239, 0.711);
+}
+#container{
+  max-width: 350px;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px hsla(0, 2%, 90%, 0.774);
+}
+#noofDiceLabel{
+  font-size: large;
+  font-weight: bold;
+}
+#userInput{
+  text-align: center;
+  font-weight: bold;
+  font-size: 1em;
+  width: 90px;
+  border-radius: 6px;
+  padding: 5px;
+  margin: 8px;
+}
+#rollDiceBtn{
+  background-color: hsla(208, 67%, 45%, 0.774);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 7px;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+}
+#rollDiceBtn:hover{
+  background-color: hsla(208, 67%, 45%, 0.6); 
+}
+#rollDiceBtn:hover{
+  background-color: hsla(208, 67%, 45%, 0.5); 
+}
+#resultNo{
+  font-weight: bold;
+  font-size: 1em;
+  margin: 10px;
+}
+#resultImages{
+ margin: 2.5px;
+}
