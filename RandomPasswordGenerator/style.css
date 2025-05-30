@@ -1,0 +1,68 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: hsla(0, 0%, 95%, 0.534);
+}
+
+#container{
+    max-width: 450px;
+    padding: 25px;
+    margin: auto;
+    background-color: white;  
+}
+
+h1{
+    color: hsla(209, 65%, 53%, 0.545);
+}
+#passwordLength{
+    margin-left: 98px;
+}
+
+#inputs{
+    text-align: left;
+    font-weight: 600;     
+    color: hsla(0, 1%, 14%, 0.8);
+}
+#inputs input{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1em;
+    width: 120px;
+    padding: 5px;
+    border-radius: 4px;
+    margin-bottom: 6px;
+}
+
+#binaryInputs{
+  display: grid;
+  grid-template-columns: max-content auto;
+  gap: 6px 8px; 
+  align-items: center;
+}
+
+#submitBtn {
+  width: 100px;
+  margin: 18px;
+  
+  background-color: hsl(0, 80%, 64%);
+  font-weight: bolder;
+  font-size: 1em;
+  color: antiquewhite;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#submitBtn:hover {
+  background-color: hsl(0, 80%, 54%);
+}
+#submitBtn:active {
+  background-color: hsl(0, 80%, 44%);
+}
+
+#generatedPassword{
+    margin: 12px;
+    color: coral;
+    font-weight: bold;
+    font-size: medium;
+}
