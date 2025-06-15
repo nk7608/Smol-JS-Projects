@@ -43,10 +43,10 @@ button:active {
 #result-display {
   font-size: 2em;
 }
-.apply-red, #player-score-display{
+.apply-red, #computer-score-display{
   color: hsla(0, 93%, 49%, 0.8);
 }
-.apply-green, #computer-score-display{
+.apply-green,  #player-score-display{
   color: rgba(28, 201, 28, 0.8);
 }
 .apply-blue {
