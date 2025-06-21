@@ -3,7 +3,7 @@
 A growing collection of small, fun JavaScript projects I built to learn, experiment, and ship fast. Each project is self-contained, beginner-friendly, and hosted for quick access.
 
 
-## 🚀 Live Projects## 🚀 Live Projects
+## 🚀 Live Projects
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
