@@ -27,9 +27,3 @@ No frameworks, no build tools — just vanilla JS.
 ## 💡 Why this exists
 
 To sharpen fundamentals, test silly ideas, and build a habit of shipping in public. If it helps you too, feel free to fork, clone, or suggest something!
-
-## 💡 Why this exists
-
-To sharpen fundamentals, test silly ideas, and build a habit of shipping in public. If it helps you too, feel free to fork, clone, or suggest something!
-
----
