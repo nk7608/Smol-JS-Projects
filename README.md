@@ -2,6 +2,7 @@
 
 A growing collection of small, fun JavaScript projects I built to learn, experiment, and ship fast. Each project is self-contained, beginner-friendly, and hosted for quick access.
 
+
 ## 🚀 Live Projects## 🚀 Live Projects
 
 | Project | Description | Live Demo |
@@ -17,6 +18,7 @@ A growing collection of small, fun JavaScript projects I built to learn, experim
 | **Pokemon App** | Made to fetch input Pokemon via API | [🔗 View](https://pokemon-api-js-nayana.vercel.app/) |
 | **Stop Watch** | Digital Stop Watch App | [🔗 View](https://stop-watch-js-nayana.vercel.app/) |
 
+
 ## 📁 Structure
 
 Each folder contains:
@@ -26,7 +28,6 @@ Each folder contains:
 
 No frameworks, no build tools — just vanilla JS.
 
----
 
 ## 💡 Why this exists
 
