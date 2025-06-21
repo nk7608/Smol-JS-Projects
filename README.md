@@ -8,8 +8,8 @@ A growing collection of small, fun JavaScript projects I built to learn, experim
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| **Random Password Generator** | Generate strong, copyable passwords without the Apple headaches | [🔗 View](https://random-password-generator-js-nayana.vercel.app) |
-| **(Add more here as you build them!)** | | |
+| **Random Password Generator** | Generate strong, copyable passwords without headaches & panic | [🔗 View](https://random-password-generator-js-nayana.vercel.app) |
+| **Calculator App** | Inspired from the calculator app on IOS with minimalistic interactions | [🔗 View](https://calculator-js-nayana.vercel.app/) |
 
 ---
 
@@ -23,6 +23,10 @@ Each folder contains:
 No frameworks, no build tools — just vanilla JS.
 
 ---
+
+## 💡 Why this exists
+
+To sharpen fundamentals, test silly ideas, and build a habit of shipping in public. If it helps you too, feel free to fork, clone, or suggest something!
 
 ## 💡 Why this exists
 
